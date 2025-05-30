@@ -13,7 +13,7 @@ title                    : "Zicheng Fan"
 title_separator          : "-"
 name                     : &name "Zicheng"
 description              : &description "Urban Analytics Lab"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://zichengfan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zichengfan/zichengfan.github.io"
 
