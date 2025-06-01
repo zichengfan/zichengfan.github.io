@@ -8,8 +8,7 @@ date: 2024-11-13
 location: "Singapore, Singapore"
 ---
 
-
-![Zicheng presents his work on SVI coverage]({{ "/images/talks/NUS_Tsinghua/NUS_Tsinghua_2.JPG" | relative_url }}){: width="600px" style="max-width: 100%; height: auto;"}
+<img src="{{ "/images/talks/NUS_Tsinghua/NUS_Tsinghua_2.JPG" | relative_url }}" width="60%" style="max-width: 100%; height: auto;">
 
 Fan Zicheng examined the coverage and bias of street view imagery in mapping urban environments, highlighting the importance of accurate visual data.
 
