@@ -3,15 +3,18 @@ title: "Urban Data, Science and Technology Workshop"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-06-12-Tsinghua-talk
+excerpt_separator: "<!--more-->"
 venue: "Room 202, School of Architecture, Tsinghua University"
 date: 2024-06-12
 location: "Beijing, China"
 ---
 
-<img src="{{ site.baseurl }}/images/talks/tsinghua_talk/tsinghua_poster.JPG" alt="Poster of the event" style="width:50%">
+![Poster of the event]({{ "/images/talks/tsinghua_talk/tsinghua_poster.JPG" | relative_url }}){: width="600px" style="max-width: 100%; height: auto;"}
 
-<img src="{{ site.baseurl }}/images/talks/tsinghua_talk/tsinghua_talk.PNG" alt="Tsinghua talk presentation" style="width:50%">
+Poster of the event.
+
+![Zicheng Fan presents his work]({{ "/images/talks/tsinghua_talk/tsinghua_talk.PNG" | relative_url }}){: width="600px" style="max-width: 100%; height: auto;"}
 
 Zicheng Fan presents his work on nighttime SVI, which provides a novel perspective in sensing nighttime lighting built environment.
 
-<a href="https://ual.sg/post/2024/06/22/guest-lectures-at-peking-university-and-tsinghua-university/">More information here</a>
+[More information here](https://ual.sg/post/2024/06/22/guest-lectures-at-peking-university-and-tsinghua-university/)
