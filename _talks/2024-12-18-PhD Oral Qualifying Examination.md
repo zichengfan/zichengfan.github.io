@@ -8,5 +8,8 @@ date: 2024-12-18
 location: "Singapore, Singapore"
 ---
 
+![Oral QE]({{ "/images/talks/QE/QE.jpg" | relative_url }}){: width="600px" style="max-width: 100%; height: auto;"} 
 I have successfully passed the oral qualifying examination and become a Ph.D. candicate.
 
+![BBQ after QE]({{ "/images/talks/QE/Post_QE.jpg" | relative_url }}){: width="600px" style="max-width: 100%; height: auto;"} 
+BBQ event at the end of the semester.
