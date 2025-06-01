@@ -9,6 +9,7 @@ venue: 'Computers, Environment and Urban Systems'
 paperurl: 'http://zichengfan.github.io/files/paper2.pdf'
 bibtexurl: 'http://zichengfan.github.io/files/bibtex2.bib'
 citation: 'Fan, Z., Feng, C.-C., Biljecki, F., 2025. Coverage and bias of street view imagery in mapping the urban environment. Computers, Environment and Urban Systems 117, 102253. https://doi.org/10.1016/j.compenvurbsys.2025.102253'
+thumbnail: '/images/publications/svi_coverage_updated.jpeg'
 ---
 
 <img src="{{ "/images/publications/svi_coverage_updated.jpeg" | relative_url }}" width="90%" style="max-width: 100%; height: auto;">

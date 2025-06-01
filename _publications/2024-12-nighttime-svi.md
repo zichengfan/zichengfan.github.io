@@ -9,6 +9,7 @@ venue: 'Sustainable Cities and Society'
 paperurl: 'http://zichengfan.github.io/files/paper1.pdf'
 bibtexurl: 'http://zichengfan.github.io/files/bibtex1.bib'
 citation: 'Fan, Z., Biljecki, F., 2024. Nighttime Street View Imagery: A new perspective for sensing urban lighting landscape. Sustainable Cities and Society 116, 105862. https://doi.org/10.1016/j.scs.2024.105862'
+thumbnail: '/images/publications/svi_coverage_updated.jpeg'
 ---
 
 <img src="{{ "/images/publications/nighttime_svi_updated.jpeg" | relative_url }}" width="90%" style="max-width: 100%; height: auto;">
