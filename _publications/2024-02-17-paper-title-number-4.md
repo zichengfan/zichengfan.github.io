@@ -1,5 +1,5 @@
 ---
-title: "EXPLORING THE LINKAGE BETWEEN SPACE SYNTAX AND VISUAL IMPRESSION OF ARCHITECTURAL SPACES: A case study of the Japanese streetscapes during moments of "Oku""
+title: "EXPLORING THE LINKAGE BETWEEN SPACE SYNTAX AND VISUAL IMPRESSION OF ARCHITECTURAL SPACES: A case study of the Japanese streetscapes during moments of Oku"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
