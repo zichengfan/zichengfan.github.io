@@ -8,10 +8,10 @@ date: 2024-06-12
 location: "Beijing, China"
 ---
 
-![Poster of the event|50%]({{ site.baseurl }}/images/talks/tsinghua_talk/tsinghua_poster.JPG)
+<img src="{{ site.baseurl }}/images/talks/tsinghua_talk/tsinghua_poster.JPG" alt="Poster of the event" style="width:50%">
 
-![Tsinghua talk presentation|50%]({{ site.baseurl }}/images/talks/tsinghua_talk/tsinghua_talk.PNG)
+<img src="{{ site.baseurl }}/images/talks/tsinghua_talk/tsinghua_talk.PNG" alt="Tsinghua talk presentation" style="width:50%">
 
 Zicheng Fan presents his work on nighttime SVI, which provides a novel perspective in sensing nighttime lighting built environment.
 
-[More information here](https://ual.sg/post/2024/06/22/guest-lectures-at-peking-university-and-tsinghua-university/)
+<a href="https://ual.sg/post/2024/06/22/guest-lectures-at-peking-university-and-tsinghua-university/">More information here</a>
