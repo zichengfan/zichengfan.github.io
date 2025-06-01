@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2024-spring-teaching
 venue: "Department of Architecture, National University of Singapore"
-date: 2024-01 - 2024-05
+date: 2024-01-01
 location: "Singapore, Singapore"
 ---
 
