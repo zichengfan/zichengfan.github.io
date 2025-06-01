@@ -8,7 +8,7 @@ date: 2024-11-13
 location: "Singapore, Singapore"
 ---
 
-![NUS Tsinghua Talk]({{ site.baseurl }}/images/talks/NUS_Tsinghua/NUS_Tsinghua_2.JPG)
+![NUS Tsinghua Talk|50%]({{ site.baseurl }}/images/talks/NUS_Tsinghua/NUS_Tsinghua_2.JPG)
 
 Fan Zicheng examined the coverage and bias of street view imagery in mapping urban environments, highlighting the importance of accurate visual data.
 

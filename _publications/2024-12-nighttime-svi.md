@@ -6,7 +6,6 @@ permalink: /publication/2024-12-nighttime-svi
 excerpt: 'To what extent Street View Imagery taken during nighttime can be applied in urban research?'
 date: 2024-12-01
 venue: 'Sustainable City and Society‘
-
 paperurl: 'http://zichengfan.github.io/files/paper1.pdf'
 bibtexurl: 'http://zichengfan.github.io/files/bibtex1.bib'
 citation: 'Fan, Z., Biljecki, F., 2024. Nighttime Street View Imagery: A new perspective for sensing urban lighting landscape. Sustainable Cities and Society 116, 105862. https://doi.org/10.1016/j.scs.2024.105862'
