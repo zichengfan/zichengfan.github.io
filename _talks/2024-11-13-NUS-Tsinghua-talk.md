@@ -8,16 +8,10 @@ date: 2024-11-13
 location: "Singapore, Singapore"
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% pdf "zichengfan.github.io/images/talks/NUS_Tsinghua/NUS_Tsinghua_2.JPG" %}
-    </div>
-</div>
- Fan Zicheng examined the coverage and bias of street view imagery in mapping urban environments, highlighting the importance of accurate visual data.
+![NUS Tsinghua Talk]({{ site.baseurl }}/images/talks/NUS_Tsinghua/NUS_Tsinghua_2.JPG)
 
-
+Fan Zicheng examined the coverage and bias of street view imagery in mapping urban environments, highlighting the importance of accurate visual data.
 
 [More information here](https://cde.nus.edu.sg/arch/news_and_events/news_ay2425_age_of_ai_120325/)
 
-[Presentation Material](
-https://issuu.com/nusdoa/docs/urban_design_and_research_2024_-_tsinghua_universi)
+[Presentation Material](https://issuu.com/nusdoa/docs/urban_design_and_research_2024_-_tsinghua_universi)

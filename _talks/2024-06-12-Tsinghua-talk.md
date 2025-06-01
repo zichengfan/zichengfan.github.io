@@ -8,20 +8,9 @@ date: 2024-06-12
 location: "Beijing, China"
 ---
 
+![Poster of the event](zichengfan.github.io/images/talks/tsinghua_talk/tsinghua_poster.JPG)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% pdf "zichengfan.github.io/images/talks/tsinghua_talk/tsinghua_poster.JPG" %}
-    </div>
-</div>
-
-Poster of the event.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% pdf "zichengfan.github.io/images/talks/tsinghua_talk/tsinghua_talk.PNG" %}
-    </div>
-</div>
+![Tsinghua talk presentation](zichengfan.github.io/images/talks/tsinghua_talk/tsinghua_talk.PNG)
 
 Zicheng Fan presents his work on nighttime SVI, which provides a novel perspective in sensing nighttime lighting built environment.
 
