@@ -3,7 +3,6 @@ title: "Urban Data, Science and Technology Workshop"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-06-12-Tsinghua-talk
-excerpt_separator: "<!--more-->"
 venue: "Room 202, School of Architecture, Tsinghua University"
 date: 2024-06-12
 location: "Beijing, China"
