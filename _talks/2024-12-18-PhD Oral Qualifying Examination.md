@@ -1,7 +1,7 @@
 ---
 title: "PhD Oral Qualifying Examination"
 collection: talks
-type: "Conference proceedings talk"
+type: "Talk"
 permalink: /talks/2024-12-18-PhD Oral Qualifying Examination
 venue: "Department of Architecture, National University of Singapore"
 date: 2024-12-18
