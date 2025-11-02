@@ -6,7 +6,7 @@ permalink: /publication/2025-05-landmark-visibility
 excerpt: 'Can images be quantitatively applied to replace traditional LoS-based analysis, to investigate the visibility of urban objects at a large scale?'
 date: 2025-05-17
 venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/pdf/2505.11809'
+paperurl: 'http://zichengfan.github.io/files/paper3.pdf'
 bibtexurl: 'http://zichengfan.github.io/files/bibtex_landmark.bib'
 citation: 'Fan, Z., Fujiwara, K., Liu, P., Zhang, F., Biljecki, F., 2025. Image-based Visibility Analysis Replacing Line-of-Sight Simulation: An Urban Landmark Perspective. arXiv preprint arXiv:2505.11809. https://doi.org/10.48550/arXiv.2505.11809'
 thumbnail: '/images/publications/landmark_visibility.png'
