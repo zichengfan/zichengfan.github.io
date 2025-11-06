@@ -10,8 +10,10 @@ location: "Cambridge, UK"
 
 
 <img src="{{ "/images/talks/cambridge_visit/1000008506.jpg" | relative_url }}" width="60%" style="max-width: 100%; height: auto;">
+
 Presentation at Cambridge University.
 
 <img src="{{ "/images/talks/cambridge_visit/1000008551.jpg" | relative_url }}" width="60%" style="max-width: 100%; height: auto;">
+
 Photo together with Cambridge Sustainable Design Group.
 
