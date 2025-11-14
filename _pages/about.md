@@ -40,6 +40,6 @@ The method has been added to [ZenSVI](https://github.com/koito19960406/ZenSVI) a
 I have led and developped the Nighttime SVI project, to broadly collect day-night paired SVI across Singapore, and apply the data to map street-level lighting conditions across the city. The project was [reported in Nanyang Sin-Chew Lianhe Zaobao](https://zb.sg/g/yxBq), the largest Chinese newspaper in Singapore and featured in the front page.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/about/nighttime_svi_example.jpg" alt="Nighttime SVI example" style="width: 100%; max-width: 600px; height: auto; border: 1px solid #ddd;">
+  <img src="/images/about/nighttime_svi_example.jpg" alt="Nighttime SVI example" style="width: 100%; height: auto; border: 1px solid #ddd;">
   <p style="font-size: 14px; color: #666; margin-top: 8px;"><em>Example of nighttime Street View Imagery collected in Singapore</em></p>
 </div>
