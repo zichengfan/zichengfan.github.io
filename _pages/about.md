@@ -33,12 +33,13 @@ My research involves developing computational methods for 3D urban environment a
   </div>
 </div>
 
+The method has been added to [ZenSVI](https://github.com/koito19960406/ZenSVI) a powerful toolset for collecting and analyzing SVI for scalable urban research. I am also involved in the development of [Voxcity](https://github.com/kunifujiwara/VoxCity), is a Python package that provides a seamless solution for grid-based 3D city model generation and urban simulation for cities worldwide.
 
 **Multie-modality Perception of Urban Environment**
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/images/about/nighttime_svi_example.jpg" alt="Nighttime SVI example" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
-  <p style="font-size: 14px; color: #666; margin-top: 8px;"><em>Example of day-night paired Street View Imagery collection in Singapore</em></p>
-</div>
+I have led and developped the Nighttime SVI project, to broadly collect day-night paired SVI across Singapore, and apply the data to map street-level lighting conditions across the city. The project was [reported in Nanyang Sin-Chew Lianhe Zaobao](https://zb.sg/g/yxBq), the largest Chinese newspaper in Singapore and featured in the front page.
 
-I have led and developped the Nighttime SVI project, to broadly collect day-night paired SVI across Singapore, and apply the data to map street-level lighting conditions across the city. The project was [reported in **Nanyang Sin-Chew Lianhe Zaobao**](https://zb.sg/g/yxBq), largest Chinese newspaper in Singapore and featured in the front page.
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/about/nighttime_svi_example.jpg" alt="Nighttime SVI example" style="width: 100%; max-width: 600px; height: auto; border: 1px solid #ddd;">
+  <p style="font-size: 14px; color: #666; margin-top: 8px;"><em>Example of nighttime Street View Imagery collected in Singapore</em></p>
+</div>
